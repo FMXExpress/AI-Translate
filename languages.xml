@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FDBS Version="16"><Manager UpdatesRegistry="True"><TableList><Table Name="LanguagesMT" SourceName="LanguagesMT" TabID="0" EnforceConstraints="False" MinimumCapacity="50" CheckNotNull="False"><ColumnList><Column Name="language" SourceName="language" SourceID="1" DataType="AnsiString" Size="128" Searchable="True" AllowNull="True" Base="True" OAllowNull="True" OInUpdate="True" OInWhere="True" OriginColName="language" SourceSize="128"/></ColumnList><ConstraintList/><ViewList/>
+<RowList><Row RowID="0"><Original language="Detect Language"/></Row>
+<Row RowID="1"><Original language="Afrikaans"/></Row>
+<Row RowID="2"><Original language="Albanian"/></Row>
+<Row RowID="3"><Original language="Amharic"/></Row>
+<Row RowID="4"><Original language="Arabic"/></Row>
+<Row RowID="5"><Original language="Armenian"/></Row>
+<Row RowID="6"><Original language="Azerbaijani"/></Row>
+<Row RowID="7"><Original language="Basque"/></Row>
+<Row RowID="8"><Original language="Belarusian"/></Row>
+<Row RowID="9"><Original language="Bengali"/></Row>
+<Row RowID="10"><Original language="Bosnian"/></Row>
+<Row RowID="11"><Original language="Bulgarian"/></Row>
+<Row RowID="12"><Original language="Catalan"/></Row>
+<Row RowID="13"><Original language="Cebuano"/></Row>
+<Row RowID="14"><Original language="Chichewa"/></Row>
+<Row RowID="15"><Original language="Chinese (Simplified)"/></Row>
+<Row RowID="16"><Original language="Chinese (Traditional)"/></Row>
+<Row RowID="17"><Original language="Corsican"/></Row>
+<Row RowID="18"><Original language="Croatian"/></Row>
+<Row RowID="19"><Original language="Czech"/></Row>
+<Row RowID="20"><Original language="Danish"/></Row>
+<Row RowID="21"><Original language="Dutch"/></Row>
+<Row RowID="22"><Original language="English"/></Row>
+<Row RowID="23"><Original language="Esperanto"/></Row>
+<Row RowID="24"><Original language="Estonian"/></Row>
+<Row RowID="25"><Original language="Filipino"/></Row>
+<Row RowID="26"><Original language="Finnish"/></Row>
+<Row RowID="27"><Original language="French"/></Row>
+<Row RowID="28"><Original language="Frisian"/></Row>
+<Row RowID="29"><Original language="Galician"/></Row>
+<Row RowID="30"><Original language="Georgian"/></Row>
+<Row RowID="31"><Original language="German"/></Row>
+<Row RowID="32"><Original language="Greek"/></Row>
+<Row RowID="33"><Original language="Gujarati"/></Row>
+<Row RowID="34"><Original language="Haitian Creole"/></Row>
+<Row RowID="35"><Original language="Hausa"/></Row>
+<Row RowID="36"><Original language="Hawaiian"/></Row>
+<Row RowID="37"><Original language="Hebrew"/></Row>
+<Row RowID="38"><Original language="Hindi"/></Row>
+<Row RowID="39"><Original language="Hmong"/></Row>
+<Row RowID="40"><Original language="Hungarian"/></Row>
+<Row RowID="41"><Original language="Icelandic"/></Row>
+<Row RowID="42"><Original language="Igbo"/></Row>
+<Row RowID="43"><Original language="Indonesian"/></Row>
+<Row RowID="44"><Original language="Irish"/></Row>
+<Row RowID="45"><Original language="Italian"/></Row>
+<Row RowID="46"><Original language="Japanese"/></Row>
+<Row RowID="47"><Original language="Javanese"/></Row>
+<Row RowID="48"><Original language="Kannada"/></Row>
+<Row RowID="49"><Original language="Kazakh"/></Row>
+<Row RowID="50"><Original language="Khmer"/></Row>
+<Row RowID="51"><Original language="Kinyarwanda"/></Row>
+<Row RowID="52"><Original language="Korean"/></Row>
+<Row RowID="53"><Original language="Kurdish (Kurmanji)"/></Row>
+<Row RowID="54"><Original language="Kyrgyz"/></Row>
+<Row RowID="55"><Original language="Lao"/></Row>
+<Row RowID="56"><Original language="Latin"/></Row>
+<Row RowID="57"><Original language="Latvian"/></Row>
+<Row RowID="58"><Original language="Lithuanian"/></Row>
+<Row RowID="59"><Original language="Luxembourgish"/></Row>
+<Row RowID="60"><Original language="Macedonian"/></Row>
+<Row RowID="61"><Original language="Malagasy"/></Row>
+<Row RowID="62"><Original language="Malay"/></Row>
+<Row RowID="63"><Original language="Malayalam"/></Row>
+<Row RowID="64"><Original language="Maltese"/></Row>
+<Row RowID="65"><Original language="Maori"/></Row>
+<Row RowID="66"><Original language="Marathi"/></Row>
+<Row RowID="67"><Original language="Mongolian"/></Row>
+<Row RowID="68"><Original language="Myanmar (Burmese)"/></Row>
+<Row RowID="69"><Original language="Nepali"/></Row>
+<Row RowID="70"><Original language="Norwegian"/></Row>
+<Row RowID="71"><Original language="Odia (Oriya)"/></Row>
+<Row RowID="72"><Original language="Pashto"/></Row>
+<Row RowID="73"><Original language="Persian"/></Row>
+<Row RowID="74"><Original language="Polish"/></Row>
+<Row RowID="75"><Original language="Portuguese"/></Row>
+<Row RowID="76"><Original language="Punjabi"/></Row>
+<Row RowID="77"><Original language="Romanian"/></Row>
+<Row RowID="78"><Original language="Russian"/></Row>
+<Row RowID="79"><Original language="Samoan"/></Row>
+<Row RowID="80"><Original language="Scots Gaelic"/></Row>
+<Row RowID="81"><Original language="Serbian"/></Row>
+<Row RowID="82"><Original language="Sesotho"/></Row>
+<Row RowID="83"><Original language="Shona"/></Row>
+<Row RowID="84"><Original language="Sindhi"/></Row>
+<Row RowID="85"><Original language="Sinhala"/></Row>
+<Row RowID="86"><Original language="Slovak"/></Row>
+<Row RowID="87"><Original language="Slovenian"/></Row>
+<Row RowID="88"><Original language="Somali"/></Row>
+<Row RowID="89"><Original language="Spanish"/></Row>
+<Row RowID="90"><Original language="Sundanese"/></Row>
+<Row RowID="91"><Original language="Swahili"/></Row>
+<Row RowID="92"><Original language="Swedish"/></Row>
+<Row RowID="93"><Original language="Tajik"/></Row>
+<Row RowID="94"><Original language="Tamil"/></Row>
+<Row RowID="95"><Original language="Tatar"/></Row>
+<Row RowID="96"><Original language="Telugu"/></Row>
+<Row RowID="97"><Original language="Thai"/></Row>
+<Row RowID="98"><Original language="Turkish"/></Row>
+<Row RowID="99"><Original language="Turkmen"/></Row>
+<Row RowID="100"><Original language="Ukrainian"/></Row>
+<Row RowID="101"><Original language="Urdu"/></Row>
+<Row RowID="102"><Original language="Uyghur"/></Row>
+<Row RowID="103"><Original language="Uzbek"/></Row>
+<Row RowID="104"><Original language="Vietnamese"/></Row>
+<Row RowID="105"><Original language="Welsh"/></Row>
+<Row RowID="106"><Original language="Xhosa"/></Row>
+<Row RowID="107"><Original language="Yiddish"/></Row>
+<Row RowID="108"><Original language="Yoruba"/></Row>
+<Row RowID="109"><Original language="Zulu"/></Row></RowList>
+</Table></TableList><RelationList/><UpdatesJournal SavePoint="1"><Changes/></UpdatesJournal></Manager></FDBS>
