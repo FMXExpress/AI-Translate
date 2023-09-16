@@ -9,6 +9,9 @@ Language Models supported:
 * gpt-4-32k-0613 - OpenAI
 * gpt-3.5-turbo - OpenAI
 * gpt-3.5-turbo-16k - OpenAI
+* llama70b-v2-chat
+* llama13b-v2-chat
+* falcon-40b-instruct
 
 Built with [Delphi](https://www.embarcadero.com/products/delphi/) using the FireMonkey framework this client works on Windows, macOS, and Linux (and maybe Android+iOS) with a single codebase and single UI. At the moment it is specifically set up for Windows.
 
